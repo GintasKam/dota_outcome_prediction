@@ -4,6 +4,6 @@ Dota 2 is a highly competitive 5 versus 5 computer game. Before the game begins,
 
 The model built here uses public match data (of the top 10% ranked players) to predict the match outcome (win/lose) given these 10 hero choices. 
 
-Current accuracy: 59.4%
+Current accuracy: 59.2%
 
 Trained and tested on 130k games patch 7.21
